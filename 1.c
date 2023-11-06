@@ -1,6 +1,3 @@
-Q1. Demonstrate the working of array which reads 10 elements by using
-array and display all the elements in reverse order. Receive the input
-from the user.
 
 #include <stdio.h>
 #include<stdlib.h>

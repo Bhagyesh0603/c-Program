@@ -1,7 +1,3 @@
-Q3 Write a program in C to create a structure having named as books
-consists of title, author, subject, book_id as its members. Read the
-details of five books from user and display the data entered by the
-user on screen(Use array of structure)
 
 
 #include<stdio.h>

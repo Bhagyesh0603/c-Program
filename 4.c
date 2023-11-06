@@ -1,7 +1,3 @@
-Q4 Define a structure named ‘State’ which contains four fields name,
-population, lit_rate, income. Declare a structure variable as
-st1.Assign the values for your structure members as
-Maharashtra,1000000,5.8,6000.00 respectively.
 
 #include<stdio.h>
 #include<stdlib.h>

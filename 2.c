@@ -1,5 +1,3 @@
-Q2. Write a C program to find maximum number in array containing
-five elements of integer type.
 
 #include <stdio.h>
 #include<stdlib.h>
